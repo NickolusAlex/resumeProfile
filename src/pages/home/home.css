@@ -1,0 +1,129 @@
+.resume {
+    background-color: green;
+    list-style-type : none;
+    border-radius: 5px;
+    height: auto;
+    width: 100%;
+}
+
+
+.bio{
+    margin:auto;
+    border-radius: 1% 0 0 1%;
+    background-color: #0176ae;
+}
+.records{
+    border-radius: 0% 1% 1% 0;
+    background-color: white;
+}
+.border_change{
+    border-radius: 1%;
+}
+
+.resume_title{
+    font-size: x-large;
+}
+
+.resume_name{
+    font-size: larger;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-synthesis: weight;
+}
+
+.resume_address , .resume_address a{
+    font-size: normal;
+    line-height: 1;
+    color:#ffffff;
+    font-weight: normal;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.left_resume_content, .resume_heading{
+    padding-top: 10px;
+}
+.resume_heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: #ffffff;
+    border-bottom: 2px solid rgb(255, 230, 230);
+    
+}
+.left_resume_content{
+    color: #ffffff;
+}
+.resume_body{
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.school_year{
+    padding-bottom: 20px;
+}
+
+.records_heading{
+    font-size:larger;
+    color:black;
+    font-family: sans-serif;
+    border-bottom:1px solid black;
+    font-weight: bolder;
+}
+.records_content{
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.experience_list > li {
+    padding-bottom: 10px;
+}
+
+.job_company{
+    color: rgb(20, 22, 29);
+    font-size: large;
+    font-weight: bold;
+}
+.job_title, .interest_list{
+    color: darkslategrey;
+}
+.job_discription{
+    color: gray;
+}
+
+.job_date {
+    color: rgb(59, 59, 59);
+    font-size: 12px;
+}
+
+.job_date_icon {
+    font-size: 16px !important;
+}
+
+.projects_list li {
+    padding-top: 10px;
+}
+.project_name {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+/* .resume_skills > li {
+ padding-bottom : 30px;
+} */
+
+/* .resume > .leftSide {
+    display: inline;
+    margin-left: 0%;
+    max-width: 100%;
+    background-color: aliceblue;
+}
+
+.resume > .rightSide {
+    display: inline;
+    margin-left: 30%;
+    max-width: 100%;
+    background-color: aqua;
+} */

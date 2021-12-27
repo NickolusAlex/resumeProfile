@@ -1,0 +1,11 @@
+.blog_body {
+    background-color: #d6d6d6;
+    background-attachment: fixed;
+    padding-top: 10px;
+}
+
+.card_custom{
+    width:90%;
+    margin: 10px auto;
+    
+}
